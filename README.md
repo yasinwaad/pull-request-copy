@@ -1,3 +1,3 @@
 # novatech-infra
 git repo to demo
-remote commit
+remote commit demo
